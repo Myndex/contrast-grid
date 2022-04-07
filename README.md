@@ -1,4 +1,5 @@
-# Contrast Grid (APCA Version, not fully implemented yet!!! Stay tuned!!)
+# Contrast Grid
+## (APCA Version, not fully implemented yet!!! Stay tuned!!)
 
 Test many foreground and background color combos for compliance with [APCA guidelines](https://github.com/Myndex/SAPC-APCA)
 
