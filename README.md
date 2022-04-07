@@ -1,5 +1,7 @@
-# Contrast Grid
+# Contrast Grid (APCA Version, not fully implemented yet!!! Stay tuned!!)
 
-Test many foreground and background color combos for compliance with [WCAG 2.0 minimum contrast](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html).
+Test many foreground and background color combos for compliance with [APCA guidelines](https://github.com/Myndex/SAPC-APCA)
 
-See [contrast-grid.eightshapes.com](http://contrast-grid.eightshapes.com).
+This is a fork from a nifty contrast display method. The original uses the WCAG 2 method, here, we are going to integrate the perceptually uniform ACPA method, replacing the non-perceptual WCAG 2 contrast math.
+
+WORK IN PROGRESS STAY TUNED
